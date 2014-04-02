@@ -6,6 +6,8 @@ DEV By
 
 -FLOREA Gheorghe -- florea_g@etna-alternance.net
 
+-WIESER Frank -- wieser_f@etna-alternance.net
+
 =========
 
 Code Camp CMS (one week)
